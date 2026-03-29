@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux Logo"/>
-  <h1>ChetanOS Kernel Initialization</h1>
+  <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ChetanOS+Kernel+Initialization...;Loading+User+Profile...;Welcome+sysadmin!" alt="Typing SVG" /></h1>
   <p><em>sysadmin @ chetan-raghuvanshi ~ $ whoami</em></p>
   <p><b>Chetan Raghuvanshi</b> - Computer Science Engineering Student | IoT | Cyber-Security | Blockchain</p>
 </div>
@@ -45,20 +45,29 @@
 
 ### `ls -al /usr/local/projects`
 
-**📁 `aegis-agent/`**
-* **Summary**: High-performance command-line File Integrity Monitoring (FIM) engine.
-* **Tech**: `Python`, `Cybersecurity`, `BLAKE3`, `CLI Tools`
-* **Details**: Implemented modular architecture separating discovery, baseline generation, and integrity verification. Leveraged BLAKE3 over traditional standards to optimize future distributed intrusion detection.
+<details>
+  <summary><b>📁 vaultless/</b> - Behavioural identity authentication system secured on Ethereum.</summary>
+  <ul>
+    <li><b>Tech</b>: <code>Blockchain</code>, <code>Ethereum</code>, <code>Identity Auth</code>, <code>Web3</code></li>
+    <li><b>Details</b>: Decentralized identity authentication framework utilizing behavioural metrics, securely anchored on the Ethereum blockchain for unmatched security. <a href="https://github.com/chhhee10/vaultless">[View Repository]</a></li>
+  </ul>
+</details>
 
-**📁 `air-quality-monitoring/`**
-* **Summary**: Real-time IoT-based air quality measurement system.
-* **Tech**: `ESP32`, `IoT`, `Edge ML`, `Python`, `Arduino`
-* **Details**: Integrated MQ-135 and DHT11 sensors, deployed on-device Edge ML for latency-free classification, and designed a WiFi-hosted dashboard with a Python-based data logging pipeline.
+<details>
+  <summary><b>📁 aegis-agent/</b> - High-performance command-line File Integrity Monitoring (FIM) engine.</summary>
+  <ul>
+    <li><b>Tech</b>: <code>Python</code>, <code>Cybersecurity</code>, <code>BLAKE3</code>, <code>CLI Tools</code></li>
+    <li><b>Details</b>: Implemented modular architecture separating discovery, baseline generation, and integrity verification. Leveraged BLAKE3 over traditional standards to optimize future distributed intrusion detection. <a href="https://github.com/chhhee10/aegis-agent">[View Repository]</a></li>
+  </ul>
+</details>
 
-**📁 `ar-camera-tracking/`**
-* **Summary**: Real-time Augmented Reality gesture interpretation application.
-* **Tech**: `Python`, `OpenCV`, `MediaPipe`, `TensorFlow`
-* **Details**: Extracted hand keypoints & interpreted gestures using CV & ML. Combined static/dynamic gesture recognition with motion history analysis.
+<details>
+  <summary><b>📁 air-quality-monitoring/</b> - Real-time IoT-based air quality measurement system.</summary>
+  <ul>
+    <li><b>Tech</b>: <code>ESP32</code>, <code>IoT</code>, <code>Edge ML</code>, <code>Python</code>, <code>Arduino</code></li>
+    <li><b>Details</b>: Integrated MQ-135 and DHT11 sensors, deployed on-device Edge ML for latency-free classification, and designed a WiFi-hosted dashboard. <a href="https://github.com/chhhee10/air-quality-monitoring">[View Repository]</a></li>
+  </ul>
+</details>
 
 ---
 
@@ -74,6 +83,9 @@
 </div>
 
 <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chhhee10&style=for-the-badge&color=green" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chhhee10&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=radical" alt="GitHub Streak" />
