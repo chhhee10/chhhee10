@@ -1,5 +1,5 @@
-# <a href="#"><img src="chetan.gif" align="right" width="100" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30" /> Chetan Raghuvanshi - Visual Studio Code
-
+# Chetan Raghuvanshi
+<img src="chetan.gif" align="right" width="140" />
 <br/>
 
 ### 📂 Explorer
@@ -78,7 +78,8 @@ chetan@ubuntu:~/workspace$ ./fetch_github_stats.sh --user chhhee10
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhhee10&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  Github Stats
+  <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=onedark" alt="GitHub Streak" />
 </p>
