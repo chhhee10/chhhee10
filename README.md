@@ -1,5 +1,4 @@
-<img align="right" src="chetanwalk.gif" width="60" />
-# <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" width="30"/> Chetan Raghuvanshi - Visual Studio Code
+# <img align="right" src="chetan.gif" width="60" /> <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" width="30"/> Chetan Raghuvanshi - Visual Studio Code
 
 ### 📂 Explorer 
 > `> CHEEHH10 (WORKSPACE)`
