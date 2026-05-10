@@ -3,7 +3,7 @@
 <br/>
 
 ### 📂 Explorer
-> `> CHEEHH10 (WORKSPACE)`
+> `> CHHHEE10 (WORKSPACE)`
 
 
 <br/>
