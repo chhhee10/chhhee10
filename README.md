@@ -1,85 +1,61 @@
-# Chetan Raghuvanshi
-<img src="chetan.gif" align="right" width="140" />
-<br/>
+# Hi, I'm Chetan Raghuvanshi 👋
 
-### 📂 Explorer
-> `> CHHHEE10 (WORKSPACE)`
+CS undergrad at **Sir M. Visvesvaraya Institute of Technology** (IoT · Cybersecurity · Blockchain) · GPA 9.04 · Graduating 2027
 
+Currently interning at **BG THub** — building AI agents & mobility backend infrastructure.
 
-<br/>
+---
 
-<h3 id="about-me">📄 <code>README.md</code></h3>
+### 🤖 What I build
 
-```markdown
-# Hi there, I'm Chetan 👋
+| Domain | Focus |
+|---|---|
+| **AI / ML** | Multi-agent pipelines (LangGraph), RAG systems, LLM orchestration (Groq, Gemini) |
+| **Full-stack** | React + FastAPI + Node.js — production on Cloudflare & Vercel |
+| **Web3** | Solana programs in Rust/Anchor, on-chain auth, DeFi primitives |
 
-I'm a Computer Science Engineering Student specializing in **IoT**, **Cyber-Security**, and **Blockchain** at Sir M. Visvesvaraya Institute Of Technology. 
+---
 
-- 💼 **Experience**: Web Developer Intern at All India Organization of Pensioners.
-- 🎓 **Education**: Expected graduation in 2027.
-- ⚡ **Passion**: I like building things from Edge ML devices to decentralized Blockchain auth systems.
-```
+### 🚀 Projects
 
-<h3 id="skills">{} <code>skills.json</code></h3>
+**[CAI — Chartered Accountant Intelligence](https://github.com/chhhee10/CAI)**  `Python` `LangGraph` `FastAPI` `Groq` `React`
+> 6-agent AI tax advisory engine with multi-namespace RAG across 5 semantic stores, assessment-year-aware vector filtering, and sub-300ms average latency.
 
-```json
-{
-  "languages": ["C/C++", "Python", "Java", "JavaScript", "HTML/CSS", "SQL"],
-  "frameworks": ["React", "Node.js", "FastAPI", "ESP32", "Arduino", "IoT Systems"],
-  "tools": ["Git", "GitHub", "VS Code", "Docker", "Linux"],
-  "libraries": ["NumPy", "pandas", "Matplotlib", "OpenCV", "MediaPipe", "TensorFlow", "STL"]
-}
-```
+**[PullSmith — Autonomous PR Review Agent](https://github.com/chhhee10/pullsmith)**  `Python` `LangChain` `GitHub API` `Groq` `Gemini`
+> 🥈 2nd place @ Scalar Hackathon (200+ teams) · 7-agent pipeline for code review, security scanning, test generation & self-healing CI.
 
-<h3 id="projects">🚀 <code>projects.ts</code></h3>
+**[Vaultless — Biometric Auth on Solana](https://github.com/chhhee10/vaultless)**  `Rust` `Anchor` `Solana` `React Native`
+> Passwordless system reconstructing deterministic Ed25519 keys from a 64-dim behavioural biometric engine. Ghost Wallet duress protocol for coercion detection.
 
-```typescript
-interface Project {
-  name: string;
-  description: string;
-  technologies: string[];
-  link: string;
-}
+---
 
-const projects: Project[] = [
-  {
-    name: "Vaultless",
-    description: "Behavioural identity authentication system securely anchored on Ethereum.",
-    technologies: ["Blockchain", "Ethereum", "Identity Auth", "Web3"],
-    link: "https://github.com/chhhee10/vaultless"
-  },
-  {
-    name: "Aegis Agent",
-    description: "High-performance command-line File Integrity Monitoring (FIM) engine.",
-    technologies: ["Python", "Cybersecurity", "BLAKE3", "CLI"],
-    link: "https://github.com/chhhee10/aegis-agent"
-  },
-  {
-    name: "Air Quality Monitoring System",
-    description: "Real-time IoT system deploying on-device Edge ML for latency-free classification.",
-    technologies: ["ESP32", "IoT", "Edge ML", "Python"],
-    link: "https://github.com/chhhee10/air-quality-monitoring"
-  }
-];
-```
+### 💼 Experience
 
-<h3 id="terminal"><code>&gt;_ Terminal</code></h3>
+**Backend Development Intern** @ BG THub  ·  *Apr 2026 – Present*
+- Architected AI conversational agent — intent routing, API contracts, session-state via RESTful microservices
+- Integrated Firebase cutting auth setup time by 60%; audited APIs against India's DPDP Act 2023
 
-```bash
-chetan@ubuntu:~/workspace$ whoami
-Chetan Raghuvanshi
+**Web Developer Intern** @ All India Organization of Pensioners  ·  *Feb – Apr 2026*
+- Built grievance portal sustaining 1,250+ MAU and 17.6k+ requests/month at 98% uptime
+- Reduced task-completion friction by 40% with WCAG-compliant accessibility-first UI for elderly users
 
-chetan@ubuntu:~/workspace$ cat contacts.txt
-📬 Email: chetanraghuvanshi85@gmail.com
-🔗 LinkedIn: linkedin.com/in/chetan-raghuvanshi
-🐙 GitHub: github.com/chhhee10
+---
 
-chetan@ubuntu:~/workspace$ ./fetch_github_stats.sh --user chhhee10
-```
+### 🛠 Stack
 
-<p align="center">
-  Github Stats
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=onedark" alt="GitHub Streak" />
-</p>
+**AI/ML** — LangChain · LangGraph · RAG · Vector Search · Groq · OpenAI · Gemini · LangSmith  
+**Languages** — Python · TypeScript · Rust · JavaScript · Solidity · SQL  
+**Frontend/Backend** — React · Next.js · FastAPI · Node.js · Tailwind CSS · Vite  
+**Web3/Infra** — Solana · Anchor · Docker · Cloudflare · GitHub Actions · Firebase · PostgreSQL
+
+---
+
+### 📬 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-raghuvanshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chetan--portfolio.xyz-black?style=flat)](https://chetan-portfolio.xyz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chetanraghuvanshi85@gmail.com)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=github-dark)
