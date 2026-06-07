@@ -57,5 +57,12 @@ Currently interning at **BG THub** — building AI agents & mobility backend inf
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chetanraghuvanshi85@gmail.com)
 
 ---
+<div align="center">
 
+
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=github-dark)
+
+
+
+</div>
