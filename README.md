@@ -47,14 +47,6 @@ chetan@blr ~ % neofetch
 [chain]      solana · anchor · ed25519
 ```
 
-## `$ stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhhee10&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff2d6f&icon_color=ff3b3b&text_color=c9c9c9&ring_color=ff2d6f" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=chhhee10&hide_border=true&background=0a0a0a&ring=ff2d6f&fire=ff3b3b&currStreakLabel=ff2d6f&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=8b8b8b&dates=555555&stroke=ff2d6f33" />
-
-</div>
 
 ## `$ ping chetan`
 
