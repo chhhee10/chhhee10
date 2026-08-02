@@ -17,7 +17,7 @@ chetan@blr ~ % neofetch
 
 ## `$ work`
 
-**[FailproofAI](https://befailproof.ai)** — started as an intern, converted to founding engineer. Shipped runtime enforcement into the tool-call lifecycle of **6 agent CLIs** (Hermes, OpenClaw, Goose, Devin CLI, Factory Droid, Antigravity) via a **39-policy engine**, distributed on npm. Now building the **daemon** that unifies enforcement across the entire product umbrella.
+**[FailproofAI](https://befailproof.ai)** — Shipped runtime enforcement into the tool-call lifecycle of **6 agent CLIs** (Hermes, OpenClaw, Goose, Devin CLI, Factory Droid, Antigravity) via a **39-policy engine**, distributed on npm. Now building the **daemon** that unifies enforcement across the entire product umbrella.
 
 **AgentEye** — observability for AI agents. Collector-side ingestion of sessions, messages, tool calls, hooks and events into **ClickHouse**, surfaced through a Next.js dashboard. If your agent did it, it's in the trace.
 
