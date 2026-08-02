@@ -1,68 +1,67 @@
-# Hi, I'm Chetan Raghuvanshi 👋
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="chetan raghuvanshi — agent infra · observability · solana"/>
+</div>
 
-CS undergrad at **Sir M. Visvesvaraya Institute of Technology** (IoT · Cybersecurity · Blockchain) · GPA 9.04 · Graduating 2027
+```console
+chetan@blr ~ % neofetch
 
-Currently interning at **BG THub** — building AI agents & mobility backend infrastructure.
+   ██▄                  chetan @ bengaluru
+    ▀██▄                ─────────────────────────────────────────────
+      ▀██▄              role      founding engineer · FailproofAI
+      ▄██▀              edu       B.E. CS (IoT · Cyber · Blockchain) — Sir MVIT '27 · CGPA 9.01
+    ▄██▀                day       policy daemon for AI coding agents — block / sanitize / instruct
+   ██▀                  night     AgentEye — open-source agent observability on ClickHouse
+                        weekend   deliberately cursed agent builds, for science and blog content
+                        motto     ship it, watch it, block it before it rm -rf's prod
+```
 
----
+## `$ work`
 
-### 🤖 What I build
+**[FailproofAI](https://befailproof.ai)** — started as an intern, converted to founding engineer. Shipped runtime enforcement into the tool-call lifecycle of **6 agent CLIs** (Hermes, OpenClaw, Goose, Devin CLI, Factory Droid, Antigravity) via a **39-policy engine**, distributed on npm. Now building the **daemon** that unifies enforcement across the entire product umbrella.
 
-| Domain | Focus |
+**AgentEye** — observability for AI agents. Collector-side ingestion of sessions, messages, tool calls, hooks and events into **ClickHouse**, surfaced through a Next.js dashboard. If your agent did it, it's in the trace.
+
+## `$ ls ~/projects`
+
+| | |
 |---|---|
-| **AI / ML** | Multi-agent pipelines (LangGraph), RAG systems, LLM orchestration (Groq, Gemini) |
-| **Full-stack** | React + FastAPI + Node.js — production on Cloudflare & Vercel |
-| **Web3** | Solana programs in Rust/Anchor, on-chain auth, DeFi primitives |
+| **[CAI — Chartered Accountant Intelligence](https://github.com/chhhee10/CAI)** <br/> `python` `langgraph` `fastapi` `groq` | 6-agent tax advisory engine · multi-namespace RAG across 5 semantic stores · **sub-300ms** avg retrieval |
+| **[PullSmith](https://github.com/chhhee10/pullsmith)** <br/> `python` `langchain` `github api` `gemini` | autonomous 7-agent PR review · security scanning, test-gen, self-healing CI · built in **24h** |
+| **[Vaultless](https://github.com/chhhee10/vaultless)** <br/> `rust` `anchor` `solana` `react native` | passwordless auth — **Ed25519 keys rebuilt in-memory** from 64-dim behavioural biometrics · Ghost Wallet duress protocol for when someone's holding a wrench |
 
----
+## `$ trophies`
 
-### 🚀 Projects
+```text
+🥇  1st — OpenSwarm Hackathon · Polaris (300+ teams) · SwarmHands, an agent mesh
+🥈  2nd — Anvil Hackathon · Scaler (200+ teams) · PullSmith
+⚔️   300+ LeetCode · 5★ C++ HackerRank
+```
 
-**[CAI — Chartered Accountant Intelligence](https://github.com/chhhee10/CAI)**  `Python` `LangGraph` `FastAPI` `Groq` `React`
-> 6-agent AI tax advisory engine with multi-namespace RAG across 5 semantic stores, assessment-year-aware vector filtering, and sub-300ms average latency.
+## `$ cat stack.toml`
 
-**[PullSmith — Autonomous PR Review Agent](https://github.com/chhhee10/pullsmith)**  `Python` `LangChain` `GitHub API` `Groq` `Gemini`
-> 🥈 2nd place @ Scalar Hackathon (200+ teams) · 7-agent pipeline for code review, security scanning, test generation & self-healing CI.
+```toml
+[daily]      typescript · python · rust · node · fastapi · react · nextjs
+[ai]         langgraph · langchain · rag · vector-search · mcp · langsmith
+[data]       clickhouse · postgres · mongodb · firebase
+[infra]      docker · cloudflare · vercel · github-actions · linux · tmux
+[chain]      solana · anchor · ed25519
+```
 
-**[Vaultless — Biometric Auth on Solana](https://github.com/chhhee10/vaultless)**  `Rust` `Anchor` `Solana` `React Native`
-> Passwordless system reconstructing deterministic Ed25519 keys from a 64-dim behavioural biometric engine. Ghost Wallet duress protocol for coercion detection.
+## `$ stats`
 
----
-
-### 💼 Experience
-
-**Backend Development Intern** @ BG THub  ·  *Apr 2026 – Present*
-- Architected AI conversational agent — intent routing, API contracts, session-state via RESTful microservices
-- Integrated Firebase cutting auth setup time by 60%; audited APIs against India's DPDP Act 2023
-
-**Web Developer Intern** @ All India Organization of Pensioners  ·  *Feb – Apr 2026*
-- Built grievance portal sustaining 1,250+ MAU and 17.6k+ requests/month at 98% uptime
-- Reduced task-completion friction by 40% with WCAG-compliant accessibility-first UI for elderly users
-
----
-
-### 🛠 Stack
-
-**AI/ML** — LangChain · LangGraph · RAG · Vector Search · Groq · OpenAI · Gemini · LangSmith  
-**Languages** — Python · TypeScript · Rust · JavaScript · Solidity · SQL  
-**Frontend/Backend** — React · Next.js · FastAPI · Node.js · Tailwind CSS · Vite  
-**Web3/Infra** — Solana · Anchor · Docker · Cloudflare · GitHub Actions · Firebase · PostgreSQL
-
----
-
-### 📬 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-raghuvanshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-chetan--portfolio.xyz-black?style=flat)](https://chetan-portfolio.xyz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chetanraghuvanshi85@gmail.com)
-
----
 <div align="center">
 
-
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhhee10&theme=github-dark)
-
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhhee10&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff2d6f&icon_color=ff3b3b&text_color=c9c9c9&ring_color=ff2d6f" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=chhhee10&hide_border=true&background=0a0a0a&ring=ff2d6f&fire=ff3b3b&currStreakLabel=ff2d6f&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=8b8b8b&dates=555555&stroke=ff2d6f33" />
 
 </div>
+
+## `$ ping chetan`
+
+[![linkedin](https://img.shields.io/badge/linkedin-chetan--raghuvanshi-0a0a0a?style=flat-square&logo=linkedin&logoColor=ff2d6f)](https://linkedin.com/in/chetan-raghuvanshi)
+[![portfolio](https://img.shields.io/badge/portfolio-chetan--portfolio.xyz-0a0a0a?style=flat-square&logo=firefox&logoColor=ff2d6f)](https://chetan-portfolio.xyz)
+[![email](https://img.shields.io/badge/email-chetanraghuvanshi85-0a0a0a?style=flat-square&logo=gmail&logoColor=ff2d6f)](mailto:chetanraghuvanshi85@gmail.com)
+
+```console
+chetan@blr ~ % exit
+```
