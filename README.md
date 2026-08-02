@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="chetan raghuvanshi — agent infra · observability · solana"/>
+  <img src="https://github.com/chhhee10/chhhee10/blob/main/header.svg" width="100%" alt="chetan raghuvanshi — agent infra · observability · solana"/>
 </div>
 
 ```console
